@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @AposKonti
+- 👀 I’m interested in Hardware Design, Hardware Security, Cybersecurity
